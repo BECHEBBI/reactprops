@@ -1,0 +1,21 @@
+.nameofpro{
+    display: inline;
+}
+.nameoftxtpro {
+    display: inline;
+}
+
+.proimg {
+    border-radius: 50%;
+    border: 2px solid royalblue;
+    opacity: 80%;
+    float: left;
+    margin-left: 400px;
+}
+.proimg:hover{
+    opacity:100%;
+    border-radius: 50%;
+    border: 2px solid blue;
+    
+}
+
